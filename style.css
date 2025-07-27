@@ -333,12 +333,14 @@ button:focus{
     position: relative;
     transition: color 0.4s ease-in-out;
     z-index: 1;
+    overflow: hidden;
    
 }
 
 .price-box::before {
     content: "";
     position: absolute;
+    overflow: hidden;
     top: 0;
     left: 0;
     width: 100%;
