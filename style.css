@@ -428,6 +428,9 @@ button:focus{
  
 }
 @media (max-width:567px) {
+    .header {
+        height: 50vh;
+    }
     .box-container {
         padding: 0 1rem;
         grid-gap: 10px;
