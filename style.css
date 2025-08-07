@@ -428,7 +428,7 @@ button:focus{
  
 }
 @media (max-width:567px) {
-    .header {
+    header {
         height: 50vh;
     }
     .box-container {
